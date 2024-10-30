@@ -1,0 +1,52 @@
+name,voice_id,gender,age,accent,description,use_case,preview_url
+Alice,Xb7hH8MSUJpSbSDYk0k2,female,middle-aged,British,confident,news,Sample
+Aria,9BWtsMINqrJLrRacOk9x,female,middle-aged,American,expressive,social media,Sample
+Bill,pqHfZKP75CvOlQylNhV4,male,old,American,trustworthy,narration,Sample
+Brian,nPczCjzI2devNBz1zQrb,male,middle-aged,American,deep,narration,Sample
+Callum,N2lVS1w4EtoT3dr4eOWO,male,middle-aged,Transatlantic,intense,characters,Sample
+Charlie,IKne3meq5aSn9XLyUdCD,male,middle aged,Australian,natural,conversational,Sample
+Charlotte,XB0fDUnXU5powFXDhCwa,female,young,Swedish,seductive,characters,Sample
+Chris,iP95p4xoKVk53GoZ742B,male,middle-aged,American,casual,conversational,Sample
+Daniel,onwK4e9ZLuTAKqWW03F9,male,middle-aged,British,authoritative,news,Sample
+Eric,cjVigY5qzO86Huf0OWal,male,middle-aged,American,friendly,conversational,Sample
+George,JBFqnCBsd6RMkjVDRZzb,male,middle aged,British,warm,narration,Sample
+Jessica,cgSgspJ2msm6clMCkdW9,female,young,American,expressive,conversational,Sample
+Laura,FGY2WhTYpPnrIDTdsKH5,female,young,American,upbeat,social media,Sample
+Liam,TX3LPaxmHKxFdv7VOQHJ,male,young,American,articulate,narration,Sample
+Lily,pFZP5JQG7iQjIQuC4Bku,female,middle-aged,British,warm,narration,Sample
+Matilda,XrExE9yKIg1WjnnlVkGX,female,middle-aged,American,friendly,narration,Sample
+River,SAz9YHcvj6GT2YYXdXww,non-binary,middle-aged,American,confident,social media,Sample
+Roger,CwhRBWXzGAHq8TQ4Fs17,male,middle-aged,American,confident,social media,Sample
+Sarah,EXAVITQu4vr4xnSDxMaL,female,young,American,soft,news,Sample
+Will,bIHbv24MWmeRgasZH58o,male,young,American,friendly,social media,Sample
+Adam,pNInz6obpgDQGcFmaJgB,male,middle aged,american,deep,narration,Sample
+Antoni,ErXwobaYiN019PkySvjV,male,young,american,well-rounded,narration,Sample
+Arnold,VR6AewLTigWG4xSOukaG,male,middle aged,american,crisp,narration,Sample
+Clyde,2EiwWnXFnvU5JabPnv8n,male,middle-aged,American,war veteran,characters,Sample
+Dave,CYw3kZ02Hs0563khs1Fj,male,young,British,conversational,characters,Sample
+Dorothy,ThT5KcBeYPX3keUQqHPh,female,young,British,pleasant,narration,Sample
+Drew,29vD33N1CtxCmqQRPOHJ,male,middle-aged,American,well-rounded,news,Sample
+Emily,LcfcDJNUP1GQjkzn1xUU,female,young,American,calm,meditation,Sample
+Ethan,g5CIjZEefAph4nQFvHAz,male,young,American,soft,ASMR,Sample
+Fin,D38z5RcWu1voky8WS1ja,male,old,Irish,sailor,characters,Sample
+Freya,jsCqWAovK2LkecY7zXl4,female,young,American,expressive,characters,Sample
+George,Yko7PKHZNXotIFUBG7I9,male,middle aged,british,,audiobook,Sample
+Gigi,jBpfuIE2acCO8z3wKNLl,female,young,American,childlish,animation,Sample
+Giovanni,zcAOhNBS3c14rBihAFp1,male,young,Italian,foreigner,narration,Sample
+Glinda,z9fAnlkpzviPz146aGWa,female,middle-aged,American,witch,characters,Sample
+Grace,oWAxZDx7w5VEj9dCyTzz,female,young,American (South),pleasant,narration,Sample
+Harry,SOYHLrjzK2X1ezoPC6cr,male,young,American,anxious,characters,Sample
+James,ZQe5CZNOzWyzPSCn5a3c,male,old,Australian,calm,news,Sample
+Jeremy,bVMeCyTHy58xNoL34h3p,male,young,Irish,excited,narration,Sample
+Jessie,t0jbNlBVZ17f02VDIeMI,male,old,American,raspy,characters,Sample
+Joseph,Zlb1dXrM653N07WRdFW3,male,middle-aged,British,articulate,news,Sample
+Josh,TxGEqnHWrfWFTfGW9XjX,male,young,american,deep,narration,Sample
+Michael,flq6f7yk4E4fJM5XTYuZ,male,old,American,calm,narration,Sample
+Mimi,zrHiDhphv9ZnVXBqCLjz,female,young,Swedish,childish,animation,Sample
+Nicole,piTKgcLEGmPE4e6mEKli,female,young,American,soft,ASMR,Sample
+Patrick,ODq5zmih8GrVes37Dizd,male,middle-aged,American,shouty,characters,Sample
+Paul,5Q0t7uMcjvnagumLfvZi,male,middle-aged,American,authoritative,news,Sample
+Rachel,21m00Tcm4TlvDq8ikWAM,female,young,american,calm,narration,Sample
+Sam,yoZ06aMxZJJ28mfd3POQ,male,young,american,raspy,narration,Sample
+Serena,pMsXgVXv3BLzUgSXRplE,female,middle-aged,American,pleasant,narration,Sample
+Thomas,GBv7mTt0atIp3Br8iCZE,male,young,American,calm,meditation,Sample
